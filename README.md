@@ -1,7 +1,7 @@
 - 👋 Hi, Wlecome to @akshayrepository
-- 👀 I’m Lokking to build new UI automation frameworks using Cypress
-- 🌱 I’m currently into providing assistance for developing and maintaining  UI automation frameworks using Cypress
-- 💞️ I’m looking to collaborate on building Cypress automation frameworks for UI Automation 
+- 👀 I’m Lokking to build new Modern UI automation frameworks using Playwright(python) and Cypress(javascript)
+- 🌱 I’m currently into providing assistance for developing and maintaining  UI automation frameworks using Cypress and Playwright
+- 💞️ I’m looking to collaborate on building modern Ui automation frameworks using Playwright and Python
 - 📫 Reach me on akshay.ramachandran777@gmail.com
 - 😄 Pronouns: he/him
   
